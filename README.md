@@ -36,6 +36,7 @@ Driver errors, invalid keys, serialization failures, and storage failures should
 
 ## Documentation
 
+- [Documentation index](docs/index.md)
 - [Usage](docs/usage.md)
 - [Testing](TESTING.md)
 - [Contributing](CONTRIBUTING.md)

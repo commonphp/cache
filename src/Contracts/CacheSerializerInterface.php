@@ -6,5 +6,7 @@ namespace CommonPHP\Cache\Contracts;
 
 interface CacheSerializerInterface
 {
+    public function serialize(mixed $value): string;
 
+    public function unserialize(string $payload): mixed;
 }
